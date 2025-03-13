@@ -1,19 +1,46 @@
-title: "ROGUEDSGNR Links"
-description: "ROGUEDSGNR Links and contacts for quick access"
-baseurl: ""
+title: "ROGUEDSGNR | Links"
+description: "Links and contacts for quick access"
+baseurl: ""  # Empty since it's a GitHub Pages root repo
 url: "https://roguedsgnr.github.io/"
 
+# Theme Configuration
 remote_theme: piazzai/hacked-jekyll
 
+# Exclude unnecessary files from build
 exclude:
   - LICENSE
   - README.md
   - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - _site/
+  - .sass-cache/
+  - .jekyll-cache/
 
+# Plugins (Ensure these are installed)
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# SEO and Social Media Meta
+social:
+  name: "ROGUEDSGNR"
+  links:
+    - "https://linkedin.com/in/tiagcoimbra"
+    - "https://github.com/ROGUEDSGNR"
+    - "https://roguedsgnr.myportfolio.com/"
+
+# Default Social Share Image (Open Graph & Twitter)
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/assets/social-preview.png"
+
+# Favicon & Branding Assets
+favicon: "/assets/favicon.ico"
+
+# SASS Settings (For CSS processing)
 sass:
   sourcemap: never
