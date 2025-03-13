@@ -1,9 +1,10 @@
-title: "ROGUEDSGNR Site"
-description: "Jekyll site using hacked-jekyll theme"
+title: "ROGUEDSGNR Links"
+description: "ROGUEDSGNR Links and contacts for quick access"
 baseurl: ""
-url: "http://127.0.0.1:4000"
+url: "https://roguedsgnr.github.io/"
 
-theme: hacked-jekyll
+remote_theme: piazzai/hacked-jekyll
+
 
 exclude:
   - LICENSE
@@ -11,6 +12,7 @@ exclude:
   - vendor/
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
 
