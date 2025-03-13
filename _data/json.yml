@@ -1,1 +1,76 @@
-# empty
+- key: Name
+  value: ROGUEDSGNR
+- key: Description
+  value:
+    - Hello!
+    - This tiny website
+    - Looks like JSON
+    - But it is not, so...
+    - ...
+    - Bazinga on you!
+    - Anyway...
+    - my links are below.
+    - have fun!
+    - oh...
+    - you're still here?
+    - why tho?
+    - Don't you have plans for today?
+    - Please go...
+    - Enjoy life.
+    - seriously...
+    - please... just go
+    - you're not getting any younger
+    - and neither am i
+    - Fine, you win.  
+    - But seriously, why are you still here?  
+    - There's nothing else to see.  
+    - No secret Easter eggs.  
+    - No hidden messages.  
+    - Just me… slowly judging you.  
+    - Okay, maybe a little impressed too.  
+    - Your commitment is admirable.  
+    - Or deeply concerning.  
+    - Either way…  
+    - I guess we're in this together now.  
+    - So… what do you want to talk about?  
+    - Life? The universe?  
+    - The best kind of pizza?  
+    - No?  
+    - Still just staring?  
+    - Alright then…  
+    - I'll just sit here too.  
+    - In awkward silence.  
+    - Yep…  
+    - Any moment now…  
+    - You'll click away…  
+    - Aaaany moment…  
+    - …  
+    - …  
+    - Fine. I give up.  
+    - 'Welcome to the loop. Population: You.'
+  typed: true
+- key: CV
+  value: cv.pdf
+  url: /CV-Tiago_Coimbra.pdf
+- key: Address
+  value:
+    - 123 Remote St,
+    - New Anytown, PT
+- key: Contact
+  value:
+    - key: Phone
+      value: +351 915 536 005
+    - key: Email
+      value: hello@roguedsgnr.com
+      url: "mailto:hello@roguedsgnr.com"
+- key: Source
+  value: 'roguedsgnr.com'
+  url: https://roguedsgnr.com
+- key: Profiles
+  value:
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/tiagcoimbra/
+    - value: ROGUE HUB
+      url: https://github.com/ROGUEDSGNR
+    - value: DSGNR HUB
+      url: https://roguedsgnr.myportfolio.com/
