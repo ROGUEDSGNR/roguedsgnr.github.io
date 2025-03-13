@@ -5,7 +5,6 @@ url: "https://roguedsgnr.github.io/"
 
 remote_theme: piazzai/hacked-jekyll
 
-
 exclude:
   - LICENSE
   - README.md
